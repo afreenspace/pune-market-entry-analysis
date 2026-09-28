@@ -1,0 +1,16 @@
+Ward Name,geo_name,population_2026_est,area_km2,density_2026_est_per_km2,avg_property_rate_rs_sqft,competitor_intensity_score,rationale,demand_index,saturation_index,opportunity_score,centroid_lat,centroid_lon
+Bhavani Peth,Admin Ward 12 Bhavani Peth,259661,2.8000904384765626,92733.1,8800,7,"Historic trade/hardware market area, low organized F&B",64.6,14.3,50.3,18.511320686128403,73.86765687150195
+Kasbavish-Rambaug,Admin Ward 08 KasbaVishrambaugwada,240216,3.9282167470703127,61151.4,8500,6,"Old city core, mostly unorganized/local eateries",45.5,9.5,36.0,18.510497743362443,73.85531642175982
+Bibvewadi,Admin Ward 11 Bibwewadi,392248,7.6840447265625,51047.1,10850,9,"Growing south Pune suburb, moderate organized retail",54.9,23.8,31.1,18.47805427848189,73.86776923429527
+Sahakarnagar,Admin Ward 10 Sahakarnagar,276497,6.130880390625,45099.1,9000,8,"Established residential, limited chain penetration",40.0,19.0,21.0,18.48873151685893,73.85123125369907
+Dhankawadi,Admin Ward 14 Dhankawadi,318497,11.710650278320312,27197.2,7200,5,"Affordable outskirts near Katraj, minimal chain presence",18.9,4.8,14.1,18.44619089368211,73.85852306068726
+Warje,Admin Ward 04 Warje Karvenagar,314124,14.723573625976565,21334.8,9600,8,"Primarily residential, limited organized F&B per local reviews",30.9,19.0,11.9,18.48694659795588,73.80162911739542
+Yewalewadi,Admin Ward 15 Kondhwa Wanavdi,10343,22.429660541015625,461.1,6500,4,"Far south outskirts, sparse organized retail",0.0,0.0,0.0,18.483267570297457,73.89659266593347
+Aundh,Admin Ward 01 Aundh,243769,40.17210678027344,6068.1,13950,18,"Premium residential+commercial strip; confirmed Starbucks, multiple organized cafes",50.2,66.7,-16.5,18.546629432589008,73.79491174368381
+Kothrud,Admin Ward 03 Kothrud Karveroad,281732,16.43019843457031,17147.2,14400,20,"Major commercial road, confirmed Starbucks + high organized retail",59.0,76.2,-17.2,18.507793415565217,73.79194451567332
+Tilak Road,Admin Ward 09 Tilak Road,326090,16.296980842773436,20009.2,9500,14,"Laxmi Road shopping belt, moderate organized presence",29.6,47.6,-18.0,18.47001229802989,73.82201083764258
+Dholepatil Road,Admin Ward 05 Dhole Patil Rd,418331,18.129465140625,23074.6,13500,20,"Adjacent to Koregaon Park corridor, high premium F&B density",56.6,76.2,-19.6,18.524144549497706,73.90161912236448
+Nagar Road,Admin Ward 07 Nagar Road,322422,25.775726930664064,12508.7,10000,16,"Near Kharadi IT corridor, growing organized retail presence",28.7,57.1,-28.4,18.55860526943876,73.92005113095613
+Sangamwadi (Yerawada),Admin Ward 06 Yerawda - Sangamwadi,352560,33.48730206542969,10528.2,10900,18,"Near Kalyani Nagar/airport road, confirmed Starbucks + commercial mix",33.3,66.7,-33.4,18.581500642014984,73.90200413089514
+Hadapsar,Admin Ward 13 Hadapsar,437072,17.71886972265625,24667.0,11500,22,"Magarpatta/Amanora IT+retail hub, confirmed multiple Starbucks + malls",44.8,85.7,-40.9,18.483092325367647,73.92418674346618
+Ghole Road,Admin Ward 02 Ghole Road,231056,14.518849876953125,15914.2,10500,25,FC Road/Shivajinagar - one of Pune's densest commercial+F&B corridors,33.7,100.0,-66.3,18.528271964936746,73.83875399655855
